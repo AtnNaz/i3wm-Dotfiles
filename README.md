@@ -1,4 +1,4 @@
-# 🌌 Blue i3wm Dotfiles
+# Blue i3wm Dotfiles
 
 A minimalist, high-performance i3wm configuration featuring a deep black, navy blue, and neon blue color palette. Optimized for developers and power users on Arch Linux.
 
@@ -6,7 +6,7 @@ A minimalist, high-performance i3wm configuration featuring a deep black, navy b
 ![OS-Arch](https://img.shields.io/badge/OS-Arch_Linux-blue?logo=arch-linux)
 ![Shell-Bash](https://img.shields.io/badge/Shell-Bash-lightgrey)
 
-## 🎨 Aesthetic Theme
+## Aesthetic Theme
 - **Color Palette:** Deep Black `#0A0E17`, Navy Blue `#111926`, Electric Blue `#0088CC`, and White `#FFFFFF`.
 - **Bar:** Custom Polybar with system monitoring modules.
 - **Terminal:** Alacritty with JetBrains Mono Nerd Font.
