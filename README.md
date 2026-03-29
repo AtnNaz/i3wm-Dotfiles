@@ -34,4 +34,4 @@ A minimalist, high-performance i3wm configuration featuring a deep black, navy b
 
 1. **Install Dependencies:**
    ```bash
-   sudo pacman -S i3-wm polybar rofi thunar alacritty maim xclip i3lock xdotool ttf-jetbrains-mono-nerd papirus-icon-theme
+   sudo pacman -S i3-wm polybar rofi thunar alacritty maim xclip i3lock xdotool ttf-jetbrains-mono-nerd papirus-icon-theme playerctl
