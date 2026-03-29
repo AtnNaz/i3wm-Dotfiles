@@ -1,4 +1,4 @@
-# 🌌 Cyber-Blue i3wm Dotfiles
+# 🌌 Blue i3wm Dotfiles
 
 A minimalist, high-performance i3wm configuration featuring a deep black, navy blue, and neon blue color palette. Optimized for developers and power users on Arch Linux.
 
