@@ -29,6 +29,7 @@ A minimalist, high-performance i3wm configuration featuring a deep black, navy b
 | `PrtSc` | Full Screenshot to Clipboard |
 | `Mod + PrtSc` | Area Screenshot to Clipboard |
 | `Mod + [0-9]` | Switch Workspaces |
+| `Mod + SPACE` | Enable Float |
 
 ## 🛠️ Installation (Arch Linux)
 
