@@ -71,7 +71,7 @@ client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-col
 client.urgent           $urgent-bg-color $urgent-bg-color   $text-color          $urgent-bg-color $urgent-bg-color
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec_always --no-startup-id feh --bg-fill /home/byp4ss3r/Pictures/wallpaper.jpg
+exec_always --no-startup-id feh --bg-fill /home/YOURUSERNAME/Pictures/wallpaper.jpg
 
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5%
 
@@ -88,3 +88,5 @@ bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 10%-
 bindsym XF86AudioPlay exec playerctl play-pause
 bindsym XF86AudioNext exec playerctl next
 bindsym XF86AudioPrev exec playerctl previous
+bindsym $mod+space floating toggle
+floating_modifier $mod
